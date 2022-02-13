@@ -1,0 +1,6 @@
+﻿  display.cpp
+C:\Users\eslam\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\General\Trivago\display.cpp(937,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\General\Trivago\display.cpp(1047,7): warning C4101: 't': unreferenced local variable
+C:\Users\eslam\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\General\Trivago\display.cpp(1072,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\General\Trivago\display.cpp(1209,4): warning C4551: function call missing argument list
+  Trivago.vcxproj -> C:\Users\eslam\OneDrive - Faculty Of Computer and Information Technology (Ain Shams University)\General\Trivago\x64\Debug\Trivago.exe
